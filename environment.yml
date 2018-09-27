@@ -2,4 +2,3 @@
 name: decision-tree-environment
 dependencies:
   - tensorflow
-  - textgenrnn
